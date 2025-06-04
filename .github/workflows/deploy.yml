@@ -1,0 +1,38 @@
+name: Deploy to Vercel on Assets Change
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'thumbnails/**'
+      - 'photos-manifest.json'
+
+jobs:
+  trigger-vercel-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check for changes
+        id: changes
+        run: |
+          echo "Changes detected in thumbnails directory or photos-manifest.json"
+          echo "Triggering Vercel deployment..."
+
+      - name: Trigger Vercel Deploy Hook
+        env:
+          VERCEL_PROJECT_ID: prj_yDJoObd0nIz4IIXfJAtiF3jxq1kh
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_HOOK_ID: nqKDbdsJ7m
+        run: |
+          curl -X POST "https://api.vercel.com/v1/integrations/deploy/${{ env.VERCEL_PROJECT_ID }}/${{ env.VERCEL_HOOK_ID }}" \
+            -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}"
+      - name: Deployment Status
+        run: |
+          echo "✅ Vercel deployment hook triggered successfully"
+          echo "🚀 Project ID: ${{ env.VERCEL_PROJECT_ID }}"
+          echo "📦 Organization ID: ${{ env.VERCEL_ORG_ID }}"
+          echo "🌿 Branch: ${{ github.ref_name }}"
