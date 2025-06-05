@@ -1,5 +1,98 @@
 [
   {
+    "id": "DSCF3644",
+    "title": "DSCF3644",
+    "description": "",
+    "dateTaken": "2025-06-05T20:27:04.000Z",
+    "views": 0,
+    "tags": [
+      "静物"
+    ],
+    "originalUrl": "https://s3-private.innei.in/images/静物/DSCF3644.jpg",
+    "thumbnailUrl": "/thumbnails/DSCF3644.webp",
+    "blurhash": "L79%;t^,IUn,00IUbatR_Nt7xaRi",
+    "width": 15456,
+    "height": 10304,
+    "aspectRatio": 1.5,
+    "s3Key": "静物/DSCF3644.jpg",
+    "lastModified": "2025-06-05T12:50:56.434Z",
+    "size": 68044016,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "XResolution": 240,
+        "YResolution": 240,
+        "ResolutionUnit": 2,
+        "Software": "Adobe Photoshop Lightroom Classic 14.2 (Windows)",
+        "DateTime": "2025-06-05T20:48:55.000Z",
+        "ExifTag": 212
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 944,
+        "JPEGInterchangeFormatLength": 12696
+      },
+      "Photo": {
+        "ExposureTime": 0.0125,
+        "FNumber": 2,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 160,
+        "SensitivityType": 1,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-06-05T20:27:04.000Z",
+        "DateTimeDigitized": "2025-06-05T20:27:04.000Z",
+        "OffsetTime": "+08:00",
+        "ShutterSpeedValue": 6.321928,
+        "ApertureValue": 2,
+        "BrightnessValue": 2.71,
+        "ExposureBiasValue": 0,
+        "MaxApertureValue": 2,
+        "MeteringMode": 3,
+        "LightSource": 0,
+        "Flash": 0,
+        "FocalLength": 35,
+        "ColorSpace": 1,
+        "FocalPlaneXResolution": 3303.855743408203,
+        "FocalPlaneYResolution": 3303.855743408203,
+        "FocalPlaneResolutionUnit": 3,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 1,
+        "FocalLengthIn35mmFilm": 53,
+        "SceneCaptureType": 0,
+        "Sharpness": 132,
+        "SubjectDistanceRange": 48,
+        "BodySerialNumber": "5AA05818",
+        "LensSpecification": [
+          35,
+          35,
+          2,
+          2
+        ],
+        "LensMake": "FUJIFILM",
+        "LensModel": "XC35mmF2",
+        "LensSerialNumber": "5AA07598"
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
     "id": "DSCF3506",
     "title": "DSCF3506",
     "description": "",
