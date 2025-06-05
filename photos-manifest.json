@@ -1,5 +1,185 @@
 [
   {
+    "id": "DSCF3506",
+    "title": "DSCF3506",
+    "description": "",
+    "dateTaken": "2025-06-05T16:12:43.000Z",
+    "views": 0,
+    "tags": [
+      "静物"
+    ],
+    "originalUrl": "https://s3-private.innei.in/images/静物/DSCF3506.HIF",
+    "thumbnailUrl": "/thumbnails/DSCF3506.webp",
+    "blurhash": "TEF#?uIU4T.T9ZIV58-R-=JEITxZ",
+    "width": 5152,
+    "height": 7728,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "静物/DSCF3506.HIF",
+    "lastModified": "2025-06-05T11:36:05.584Z",
+    "size": 16356352,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "ImageWidth": 7728,
+        "ImageLength": 5152,
+        "BitsPerSample": [
+          16,
+          16,
+          16
+        ],
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "DateTime": "2025-06-05T16:12:43.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 1178,
+        "GPSTag": 3636
+      },
+      "Thumbnail": {
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.004,
+        "FNumber": 1.4,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 1000,
+        "SensitivityType": 1,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-06-05T16:12:43.000Z",
+        "DateTimeDigitized": "2025-06-05T16:12:43.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 3,
+        "ShutterSpeedValue": 8,
+        "ApertureValue": 1,
+        "BrightnessValue": 1.35,
+        "ExposureBiasValue": 0,
+        "MaxApertureValue": 1,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 0,
+        "FocalLength": 50,
+        "CameraElevationAngle": -33,
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 7728,
+        "PixelYDimension": 5152,
+        "InteroperabilityTag": 3606,
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "FocalPlaneResolutionUnit": 3,
+        "SensingMethod": 2,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "FocalLengthIn35mmFilm": 75,
+        "SceneCaptureType": 0,
+        "Sharpness": 2,
+        "SubjectDistanceRange": 0,
+        "BodySerialNumber": "5AA05818",
+        "LensSpecification": [
+          50,
+          50,
+          1.4,
+          1.4
+        ],
+        "LensMake": "BS-Optics",
+        "LensModel": "BS-Optics FX 50mm F1.4",
+        "LensSerialNumber": "30400849",
+        "CompositeImage": 1
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ],
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          30,
+          45,
+          50.008
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          120,
+          44,
+          22.733
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 7,
+        "GPSTimeStamp": [
+          8,
+          12,
+          42
+        ],
+        "GPSSpeedRef": "K",
+        "GPSSpeed": 0,
+        "GPSMapDatum": "WGS-84",
+        "GPSDateStamp": "2025:06:05"
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      },
+      "FujiRecipe": {
+        "FilmMode": "Classic Negative",
+        "GrainEffectRoughness": "Off",
+        "GrainEffectSize": "Off",
+        "ColorChromeEffect": "Weak",
+        "ColorChromeFxBlue": "Off",
+        "WhiteBalance": "3500K",
+        "Red": "+4",
+        "Blue": "-2",
+        "DynamicRange": "DR100",
+        "HighlightTone": "-1",
+        "ShadowTone": "-2",
+        "Saturation": "+1",
+        "Sharpness": "+1",
+        "NoiseReduction": "0",
+        "Clarity": "0"
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
     "id": "DSCF3449",
     "title": "DSCF3449",
     "description": "",
