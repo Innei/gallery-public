@@ -795,6 +795,117 @@
     "isLivePhoto": false
   },
   {
+    "id": "PhotonCam_FJ6_20250602",
+    "title": "PhotonCam FJ6 20250602",
+    "description": "",
+    "dateTaken": "2025-06-02T14:42:39.000Z",
+    "views": 0,
+    "tags": [
+      "人文"
+    ],
+    "originalUrl": "https://s3-private.innei.in/images/人文/PhotonCam_FJ6_20250602.heic",
+    "thumbnailUrl": "/thumbnails/PhotonCam_FJ6_20250602.webp",
+    "blurhash": "LHE:I~9G01D*~pD*4o-:?JInNE-;",
+    "width": 4032,
+    "height": 3024,
+    "aspectRatio": 1.3333333333333333,
+    "s3Key": "人文/PhotonCam_FJ6_20250602.heic",
+    "lastModified": "2025-06-13T09:21:50.160Z",
+    "size": 787184,
+    "exif": {
+      "bigEndian": true,
+      "Image": {
+        "Make": "Apple",
+        "Model": "iPhone 14 Pro",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "18.3.1",
+        "DateTime": "2025-06-02T14:42:39.000Z",
+        "HostComputer": "iPhone 14 Pro",
+        "TileWidth": 512,
+        "TileLength": 512,
+        "ExifTag": 248,
+        "GPSTag": 2464
+      },
+      "Photo": {
+        "ExposureTime": 0.0013513513513513514,
+        "FNumber": 1.78,
+        "ExposureProgram": 2,
+        "ISOSpeedRatings": 64,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-06-02T14:42:39.000Z",
+        "DateTimeDigitized": "2025-06-02T14:42:39.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ShutterSpeedValue": 9.53068914229053,
+        "ApertureValue": 1.663754482562451,
+        "BrightnessValue": 6.392955435588017,
+        "ExposureBiasValue": -1,
+        "MeteringMode": 3,
+        "Flash": 16,
+        "FocalLength": 6.86,
+        "SubjectArea": [
+          2225,
+          1653,
+          1056,
+          665
+        ],
+        "SubSecTimeOriginal": "472",
+        "SubSecTimeDigitized": "472",
+        "ColorSpace": 65535,
+        "PixelXDimension": 4032,
+        "PixelYDimension": 3024,
+        "SensingMethod": 2,
+        "SceneType": {
+          "0": 1
+        },
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "FocalLengthIn35mmFilm": 48,
+        "LensSpecification": [
+          2.220000028611935,
+          6.8600001335175875,
+          1.7799999713880652,
+          2.2
+        ],
+        "LensMake": "Apple",
+        "LensModel": "iPhone 14 Pro back dual wide camera 6.86mm f/1.78"
+      },
+      "GPSInfo": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          30,
+          45,
+          46.82
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          120,
+          44,
+          55.53
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 8.698891966759003,
+        "GPSTimeStamp": [
+          6,
+          42,
+          39.13
+        ],
+        "GPSDateStamp": "2025:06:02",
+        "GPSHPositioningError": 47.04459714362706
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
     "id": "DSCF3425",
     "title": "DSCF3425",
     "description": "",
@@ -1119,6 +1230,186 @@
           6,
           28,
           57
+        ],
+        "GPSSpeedRef": "K",
+        "GPSSpeed": 0,
+        "GPSMapDatum": "WGS-84",
+        "GPSDateStamp": "2025:06:02"
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      },
+      "FujiRecipe": {
+        "FilmMode": "Classic Chrome",
+        "GrainEffectRoughness": "Off",
+        "GrainEffectSize": "Off",
+        "ColorChromeEffect": "Weak",
+        "ColorChromeFxBlue": "Off",
+        "WhiteBalance": "3000K",
+        "Red": "0",
+        "Blue": "+2",
+        "DynamicRange": "DR100",
+        "HighlightTone": "-1",
+        "ShadowTone": "-2",
+        "Saturation": "-2",
+        "Sharpness": "0",
+        "NoiseReduction": "0",
+        "Clarity": "0"
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "DSCF3419",
+    "title": "DSCF3419",
+    "description": "",
+    "dateTaken": "2025-06-02T14:26:12.000Z",
+    "views": 0,
+    "tags": [
+      "人文"
+    ],
+    "originalUrl": "https://s3-private.innei.in/images/人文/DSCF3419.HEIC",
+    "thumbnailUrl": "/thumbnails/DSCF3419.webp",
+    "blurhash": "T9GkwO000L~VRj%LR.?GM_=v%MNH",
+    "width": 5152,
+    "height": 7728,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "人文/DSCF3419.HEIC",
+    "lastModified": "2025-06-13T09:21:50.572Z",
+    "size": 15242752,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "ImageWidth": 7728,
+        "ImageLength": 5152,
+        "BitsPerSample": [
+          16,
+          16,
+          16
+        ],
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "DateTime": "2025-06-02T14:26:12.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 1178,
+        "GPSTag": 3912
+      },
+      "Thumbnail": {
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.01,
+        "FNumber": 1.4,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 500,
+        "SensitivityType": 1,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-06-02T14:26:12.000Z",
+        "DateTimeDigitized": "2025-06-02T14:26:12.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 3,
+        "ShutterSpeedValue": 6.67,
+        "ApertureValue": 1,
+        "BrightnessValue": 1.08,
+        "ExposureBiasValue": 0,
+        "MaxApertureValue": 1,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 0,
+        "FocalLength": 50,
+        "CameraElevationAngle": -6.6,
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 7728,
+        "PixelYDimension": 5152,
+        "InteroperabilityTag": 3882,
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "FocalPlaneResolutionUnit": 3,
+        "SensingMethod": 2,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "FocalLengthIn35mmFilm": 75,
+        "SceneCaptureType": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 0,
+        "BodySerialNumber": "5AA05818",
+        "LensSpecification": [
+          50,
+          50,
+          1.4,
+          1.4
+        ],
+        "LensMake": "BS-Optics",
+        "LensModel": "BS-Optics FX 50mm F1.4",
+        "LensSerialNumber": "30400849",
+        "CompositeImage": 1
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ],
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          30,
+          45,
+          46.626
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          120,
+          44,
+          52.559
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 8,
+        "GPSTimeStamp": [
+          6,
+          26,
+          6
         ],
         "GPSSpeedRef": "K",
         "GPSSpeed": 0,
