@@ -7,6 +7,7 @@ on:
     paths:
       - 'thumbnails/**'
       - 'photos-manifest.json'
+      - '.github/workflows/deploy.yml'
 
 jobs:
   trigger-vercel-deploy:
