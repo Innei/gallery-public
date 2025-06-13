@@ -42,7 +42,7 @@ jobs:
         env:
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
           RAILWAY_SERVICE_ID: 54c8ed7b-2d3d-4ee9-ab51-5e3b71e76d7a
-          Railway_ENVIRONMENT_ID: 761bf262-7d59-4496-97dc-e79bbd20fd22
+          RAILWAY_ENVIRONMENT_ID: 761bf262-7d59-4496-97dc-e79bbd20fd22
         run: |
           curl -X POST "https://backboard.railway.com/graphql/v2" \
             -H "Authorization: Bearer ${{ env.RAILWAY_TOKEN }}" \
