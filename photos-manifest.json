@@ -6264,6 +6264,125 @@
     "isLivePhoto": false
   },
   {
+    "id": "IMG_5484",
+    "title": "IMG 5484",
+    "description": "",
+    "dateTaken": "2024-01-12T09:31:22.000Z",
+    "views": 0,
+    "tags": [
+      "风光",
+      "iPhone"
+    ],
+    "originalUrl": "https://s3-private.innei.in/images/风光/iPhone/IMG_5484.HEIC",
+    "thumbnailUrl": "/thumbnails/IMG_5484.webp",
+    "blurhash": "LPEM:?9GjEof.AIBxta#00odt7a#",
+    "width": 5712,
+    "height": 4284,
+    "aspectRatio": 1.3333333333333333,
+    "s3Key": "风光/iPhone/IMG_5484.HEIC",
+    "lastModified": "2025-06-13T09:24:44.412Z",
+    "size": 2019852,
+    "exif": {
+      "bigEndian": true,
+      "Image": {
+        "Make": "Apple",
+        "Model": "iPhone 15",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "17.2.1",
+        "DateTime": "2024-01-12T09:31:22.000Z",
+        "HostComputer": "iPhone 15",
+        "ExifTag": 216,
+        "GPSTag": 2482
+      },
+      "Photo": {
+        "ExposureTime": 0.00007199942400460797,
+        "FNumber": 1.6,
+        "ExposureProgram": 2,
+        "ISOSpeedRatings": 50,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2024-01-12T09:31:22.000Z",
+        "DateTimeDigitized": "2024-01-12T09:31:22.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ShutterSpeedValue": 13.76164356238157,
+        "ApertureValue": 1.3561438092556088,
+        "BrightnessValue": 11.696098972363563,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 16,
+        "FocalLength": 5.96,
+        "SubjectArea": [
+          2846,
+          2130,
+          3129,
+          1880
+        ],
+        "SubSecTimeOriginal": "494",
+        "SubSecTimeDigitized": "494",
+        "ColorSpace": 65535,
+        "PixelXDimension": 5712,
+        "PixelYDimension": 4284,
+        "SensingMethod": 2,
+        "SceneType": {
+          "0": 1
+        },
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "FocalLengthIn35mmFilm": 26,
+        "LensSpecification": [
+          1.5399999618512084,
+          5.96,
+          1.6,
+          2.4
+        ],
+        "LensMake": "Apple",
+        "LensModel": "iPhone 15 back dual wide camera 5.96mm f/1.6",
+        "CompositeImage": 2
+      },
+      "GPSInfo": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          27,
+          6,
+          19.72
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          100,
+          11,
+          59.85
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 4512.184684684685,
+        "GPSTimeStamp": [
+          1,
+          31,
+          22
+        ],
+        "GPSSpeedRef": "K",
+        "GPSSpeed": 0,
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 91.40448625180898,
+        "GPSDestBearingRef": "M",
+        "GPSDestBearing": 91.40448625180898,
+        "GPSDateStamp": "2024:01:12",
+        "GPSHPositioningError": 4.705757997218359
+      }
+    },
+    "isLivePhoto": true,
+    "livePhotoVideoUrl": "https://s3-private.innei.in/images/风光/iPhone/IMG_5484.mov",
+    "livePhotoVideoS3Key": "风光/iPhone/IMG_5484.mov"
+  },
+  {
     "id": "IMG_5469",
     "title": "IMG 5469",
     "description": "",
